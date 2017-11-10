@@ -14,7 +14,9 @@ Jieba (Chinese for 'to stutter') Chinese text segmentation: built to be the best
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/jieba3k-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/jieba3k-feedstock)
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/jieba3k-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/jieba3k-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/jieba3k-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/jieba3k-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/jieba3k-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/jieba3k-feedstock/branch/master)
 
 Current release info
 ====================
