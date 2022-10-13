@@ -32,7 +32,7 @@ about:
   license_family: MIT
   # See issue https://github.com/fxsjy/jieba/issues/545 for adding LICENSE to src distribution
   license_file: '{{ environ["RECIPE_DIR"] }}/LICENSE'
-  summary: Chinese Words Segementation Utilities
+  summary: Chinese Words Segmentation Utilities
   description: "Jieba (Chinese for 'to stutter') Chinese text segmentation: built to be the best Python Chinese word segmentation module."
   dev_url: 'https://github.com/fxsjy/jieba/tree/jieba3k'
 
