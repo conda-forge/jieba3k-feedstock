@@ -7,7 +7,7 @@ Package license: MIT
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jieba3k-feedstock/blob/main/LICENSE.txt)
 
-Summary: Chinese Words Segementation Utilities
+Summary: Chinese Words Segmentation Utilities
 
 Development: https://github.com/fxsjy/jieba/tree/jieba3k
 
